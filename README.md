@@ -2,7 +2,7 @@
 
 # Table of Contents
 * [Installation](docs/Installation.md)
-* [Project Motivation](docs/Project Motivation.md)
+* [Project Motivation](docs/Project_Motivation.md)
 * [Files Description](docs/Files Description.md)
 * [Results](docs/Results.md)
 * [Licensing, Authors, and Acknowledgements](docs/Licensing, Authors, and Acknowledgements.md)
