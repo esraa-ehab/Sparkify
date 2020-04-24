@@ -3,9 +3,9 @@
 # Table of Contents
 * [Installation](docs/Installation.md)
 * [Project Motivation](docs/Project_Motivation.md)
-* [Files Description](docs/Files Description.md)
+* [Files Description](docs/Files_Description.md)
 * [Results](docs/Results.md)
-* [Licensing, Authors, and Acknowledgements](docs/Licensing, Authors, and Acknowledgements.md)
+* [Licensing, Authors, and Acknowledgements](docs/Licensing,_Authors,_and Acknowledgements.md)
 
 # Files Description
 1. The data file mini_sparkify_event_data.json.zip must be unzipped before running the notebook.
