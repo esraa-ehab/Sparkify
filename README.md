@@ -1,4 +1,12 @@
 # Sparkify
+
+# Table of Contents
+* [Installation](docs/Installation.md)
+* Project Motivation
+* Files Description
+* Results
+* Licensing, Authors, and Acknowledgements
+
 # Files Description
 1. The data file mini_sparkify_event_data.json.zip must be unzipped before running the notebook.
 
