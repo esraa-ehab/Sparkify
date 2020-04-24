@@ -6,6 +6,10 @@
 * [Files Description](docs/Files_Description.md)
 * [Results](docs/Results.md)
 * [Licensing, Authors, and Acknowledgements](docs/Licensing,_Authors,_and_Acknowledgements.md)
+# Installation
+1. Install [pyspark](./http://spark.apache.org/downloads.html../) (I used conda to install it)
+2. Install Java8 on your mac link
+3. Open a new terminal and verify that Java is available on your mac by using the command below:
 
 # Files Description
 1. The data file mini_sparkify_event_data.json.zip must be unzipped before running the notebook.
