@@ -38,4 +38,4 @@ The [Sparkify.ipynb](./https://github.com/esraa-ehab/Sparkify/blob/master/Sparki
 # Licensing, Authors, and Acknowledgements
 This project is [LICENSE](./https://github.com/esraa-ehab/Sparkify/blob/master/LICENSE../)
 
-To see more about this analysis, see the link to my [Medium](./https://medium.com/@esraa.ehab37/sparkify-7fb04056c7a6../) available
+To see more about this analysis, see the link to my [Medium](https://medium.com/@esraa.ehab37/sparkify-7fb04056c7a6) available
