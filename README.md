@@ -37,3 +37,5 @@ The [Sparkify.ipynb](./https://github.com/esraa-ehab/Sparkify/blob/master/Sparki
 2. A model trained from the Gradient-boosted tree classifier has a much better performance that a model trained form the Logistic Regression where the best model trained from the Gradient-boosted tree classifier achieved over 99% of area under ROC curve and has an accuracy over 97% while the best model trained from the Logistic Regression achieved only 70% of area under ROC and has an accuracy around 83%
 # Licensing, Authors, and Acknowledgements
 This project is [LICENSE](./https://github.com/esraa-ehab/Sparkify/blob/master/LICENSE../)
+
+To see more about this analysis, see the link to my [Medium](./https://medium.com/@esraa.ehab37/sparkify-7fb04056c7a6../) available
