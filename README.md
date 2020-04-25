@@ -12,13 +12,13 @@
 2. Install Java8 on your mac link
 
 3. Open a new terminal and verify that Java is available on your mac by using the command below:
-'''
+```
 java -version
-'''
+```
 If you are seeing the message No Java runtime present, requesting install., you would need to add the following export to your ~/.bash_profile
-'''
+```
 export JAVA_HOME=/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
-'''
+```
 4. Start a jupyter notebook in a brand new terminal to use the new environment setting
 # Project Motivation
 For this project, I was interestested gaining experience with using Spark to
